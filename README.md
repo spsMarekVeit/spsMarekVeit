@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @spsMarekVeit.
+- 👀 I’m interested in Voleyball and Videogames.
+- 🌱 I’m currently learning programing HTML, CSS, C#.
+- 💞️ I’m looking to collaborate on nothing.
+- 📫 You can reach me at veitmarek@sps-karvina.cz
+- 😄 Pronouns: normal
+- ⚡ Fun fact: Idk what am i doing
