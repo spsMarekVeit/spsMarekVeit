@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @spsMarekVeit.
+- 👋 Hi, I’m Marek Veit.
 - 👀 I’m interested in Voleyball and Videogames.
 - 🌱 I’m currently learning programing HTML, CSS, C#.
 - 💞️ I’m looking to collaborate on nothing.
